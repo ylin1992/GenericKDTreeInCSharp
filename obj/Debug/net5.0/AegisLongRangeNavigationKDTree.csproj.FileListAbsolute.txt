@@ -1,0 +1,16 @@
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\bin\Debug\net5.0\AegisLongRangeNavigationKDTree.exe
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\bin\Debug\net5.0\AegisLongRangeNavigationKDTree.deps.json
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\bin\Debug\net5.0\AegisLongRangeNavigationKDTree.runtimeconfig.json
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\bin\Debug\net5.0\AegisLongRangeNavigationKDTree.runtimeconfig.dev.json
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\bin\Debug\net5.0\AegisLongRangeNavigationKDTree.dll
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\bin\Debug\net5.0\ref\AegisLongRangeNavigationKDTree.dll
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\bin\Debug\net5.0\AegisLongRangeNavigationKDTree.pdb
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.csproj.AssemblyReference.cache
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.AssemblyInfoInputs.cache
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.AssemblyInfo.cs
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.csproj.CoreCompileInputs.cache
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.dll
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\ref\AegisLongRangeNavigationKDTree.dll
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.pdb
+C:\Users\PS Donation\source\repos\AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree\obj\Debug\net5.0\AegisLongRangeNavigationKDTree.genruntimeconfig.cache
