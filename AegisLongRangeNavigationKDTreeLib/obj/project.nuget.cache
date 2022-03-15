@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOlTr/smurDYL8WA68FiheU085tLBkRaYArGK7S6o4Nrt19V8bPV2R848ZDkr1ON0xnqFfbavXHVYCL66r4bYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PS Donation\\source\\repos\\AegisLongRangeNavigationKDTree\\AegisLongRangeNavigationKDTreeLib\\AegisLongRangeNavigationKDTreeLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PS Donation\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PS Donation\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

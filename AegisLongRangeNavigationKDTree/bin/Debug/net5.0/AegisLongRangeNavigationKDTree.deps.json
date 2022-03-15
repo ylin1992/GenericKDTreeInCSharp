@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AegisLongRangeNavigationKDTree/1.0.0": {
+        "dependencies": {
+          "AegisLongRangeNavigationKDTreeLib": "1.0.0",
+          "AegisLongRangeNavigationKDTreeLib.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "AegisLongRangeNavigationKDTree.dll": {}
+        }
+      },
+      "AegisLongRangeNavigationKDTreeLib.Reference/1.0.0.0": {
+        "runtime": {
+          "AegisLongRangeNavigationKDTreeLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AegisLongRangeNavigationKDTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AegisLongRangeNavigationKDTreeLib.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

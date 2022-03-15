@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AegisLongRangeNavigationKDTree", "AegisLongRangeNavigationKDTree\AegisLongRangeNavigationKDTree.csproj", "{71C7B230-EF8C-4EC0-9E3D-7C19B10585AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AegisLongRangeNavigationKDTreeLib", "AegisLongRangeNavigationKDTreeLib\AegisLongRangeNavigationKDTreeLib.csproj", "{3B79E558-D714-44EF-827E-1188D6B98721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C7B230-EF8C-4EC0-9E3D-7C19B10585AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C7B230-EF8C-4EC0-9E3D-7C19B10585AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C7B230-EF8C-4EC0-9E3D-7C19B10585AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C7B230-EF8C-4EC0-9E3D-7C19B10585AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B79E558-D714-44EF-827E-1188D6B98721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B79E558-D714-44EF-827E-1188D6B98721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B79E558-D714-44EF-827E-1188D6B98721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B79E558-D714-44EF-827E-1188D6B98721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4563AC7-BBAA-41FA-AF86-9C40C3FC119E}
+	EndGlobalSection
+EndGlobal
