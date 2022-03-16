@@ -41,7 +41,10 @@ namespace AegisLongRangeNavigationKDTree
             KDNode<double, int> n1 =  treee.GetNearestNeighbor(new double[] { 5, 5});
             KDNode<double, int> n2 = treee.GetNearestNeighbor(new double[] { 50, 25 });
             KDNode<double, int> n3 = treee.GetNearestNeighbor(new double[] { 100, 5 });
-            Console.ReadLine();
+            Console.WriteLine(n1);
+            Console.WriteLine(n2);
+            Console.WriteLine(n3);
+            Console.WriteLine(treee.Count);
         }
     }
 }

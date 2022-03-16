@@ -10,7 +10,6 @@ namespace AegisLongRangeNavigationKDTreeLib.AegisKDTree
     public class KDTree<TKey, TValue> where TKey : IComparable
     {
         public KDNode<TKey, TValue> Root { get; private set; }
-        public int Depth { get; private set; }
         public int Count { get; private set; }
         public int NumDimensions { get; private set; }
 
@@ -22,6 +21,7 @@ namespace AegisLongRangeNavigationKDTreeLib.AegisKDTree
                 throw new ArgumentNullException();
             _operations = op;
             NumDimensions = numDimensions;
+            Count = 0;
         }
 
         public KDTree(KDNode<TKey, TValue> root, IOperable<TKey> op)
@@ -33,6 +33,7 @@ namespace AegisLongRangeNavigationKDTreeLib.AegisKDTree
             _operations = op;
             Root = root;
             NumDimensions = root.NumDimensions;
+            Count = 0;
         }
 
         /// <summary>
@@ -57,6 +58,7 @@ namespace AegisLongRangeNavigationKDTreeLib.AegisKDTree
             {
                 Root.Add(listOfNodes[i]);
             }
+            Count = listOfNodes.Count;
         }
 
         public void Insert(KDNode<TKey, TValue> newNode)
@@ -65,6 +67,7 @@ namespace AegisLongRangeNavigationKDTreeLib.AegisKDTree
                 Root = newNode;
             else
                 Root.Add(newNode);
+            Count += 1;
         }
         public KDNode<TKey, TValue> GetNearestNeighbor(TKey[] target)
         {

@@ -82,6 +82,7 @@ namespace AegisLongRangeNavigationKDTreeLib.AegisKDTree
             }
             res += "], Dim: ";
             res += Coord.Count.ToString();
+            res += "}";
             return res;
         }
     }
